@@ -18,11 +18,11 @@
   </dependencies>
   <build>
     <finalName>01-maven-web-app</finalName>
-     <plugin>
+     <plugins>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-war-plugin</artifactId>
     <version>3.3.2</version>
-</plugin>
+</plugins>
     
   </build>
 </project>
